@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am an art handler and sculptor interested in learing game dev and coding.
 - Check out my website https://mickeywilliamson3d.com to see my art, games, and other creations.
-- This is my GitHub Page https://mickeywilliamson.github.io
+- https://mickeywilliamson.itch.io/
 
 <!---
 MickeyWilliamson/MickeyWilliamson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
